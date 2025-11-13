@@ -15,7 +15,7 @@ const StyledLiveEditor = styled.div`
   & > ul {
     margin-top: 0 !important;
     padding: 12px !important;
-    font-family: monospace;
+    font-family: timesnewroman, serif;
     font-size: 14px;
     font-weight: 500;
   }
